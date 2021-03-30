@@ -8,6 +8,8 @@ npm install
 
 ## Start Server
 
+Set up your .env file first before you start.
+
 ```bash
 npm start
 ```
